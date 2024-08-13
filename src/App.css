@@ -1,6 +1,6 @@
 /* Globals css */
 
-body {
+/* body {
   margin: 0;
   font-family: "Roboto", sans;
   -webkit-font-smoothing: "Roboto", sans;
@@ -16,6 +16,32 @@ h5,
 h6,
 p {
   margin: 0;
+} */
+/* Default styles for mobile devices */
+.container {
+  margin: 0 auto;
+  padding: 0 1rem; /* Adjust this value as needed */
+}
+
+/* For small devices (portrait tablets and large phones, 640px and up) */
+@media (min-width: 640px) {
+  .container {
+    padding: 0 2rem;
+  }
+}
+
+/* For medium devices (landscape tablets, 768px and up) */
+@media (min-width: 768px) {
+  .container {
+    padding: 0 4rem;
+  }
+}
+
+/* For large devices (laptops/desktops, 1024px and up) */
+@media (min-width: 1024px) {
+  .container {
+    padding: 0 8rem;
+  }
 }
 
 :root {
@@ -737,6 +763,5 @@ input[type="checkbox"] {
     transform: rotate(-45deg) translate(0.45rem, -0.1875rem);
   }
 }
-
 
 /* Responsive Screens Ends*/
