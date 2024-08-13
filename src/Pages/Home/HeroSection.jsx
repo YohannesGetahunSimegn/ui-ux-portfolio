@@ -11,14 +11,19 @@ export default function HeroSection() {
             Designer
           </h1>
           <p className="hero--section--description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto,
-            magni! Expedita esse voluptates tempora? Id fugit nemo accusantium
-            reprehenderit, saepe alias eum et fuga, facilis hic dignissimos
-            omnis eius exercitationem!
-            <br /> Lorem ipsum dolor sit amet, consectetur adipisici
+            As a UI/UX designer with a solid foundation in graphic design, I
+            specialize in creating visually compelling and highly functional
+            interfaces. My approach ensures every design is both beautiful and
+            user-friendly, helping to bring your digital vision to life with
+            seamless and impactful experiences.
+            <br /> My design is always based on user needs and product goal!
           </p>
         </div>
-        <button className="btn btn-primary">Get in Touch </button>
+        <a href="https://www.linkedin.com/in/gruxyohag/" target="_blank">
+          {" "}
+          <br />
+          <button className="btn btn-primary">Get in Touch </button>{" "}
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />

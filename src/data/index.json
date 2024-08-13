@@ -29,49 +29,26 @@
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Food Delivery Application",
+      "description": "Food delivery app prototype designed in Figma: Streamlined UI for seamless ordering and delivery experience",
+      "view": "View In Figma",
+      "link": "https://www.figma.com/design/6gldI3fTrVmteM9rNTXQfv/Food-Delivery-Application?node-id=336-181&t=ETWa1Q0MdAXtq8NV-1"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Home Renovation Website",
+      "description": "Home renovation website designed to showcase services, inspire ideas, and simplify project planning",
+      "view": "View In Figma",
+      "link": "https://www.figma.com/design/pdJf2kC1jjNaGn21JpmYww/Home%2BRenovation%2BWebsite?node-id=246-1518&t=JTL3sEnpzgjjIxbn-1"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    }
-  ],
-  "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "title": "Admin Dashboard design",
+      "description": "EPHI Visualization Hub: Admin dashboard prototype. Please note that the design is confidential to the company and cannot be shared",
+      "view": "View In Figma",
+      "link": "https://www.figma.com/proto/Rt2rJiAIcpyB0irV0CmAB3/Vizhub-Dashboard?node-id=1-901&starting-point-node-id=1%3A901&t=xOGgb7s3XHUg9Qll-1"
     }
   ]
 }
