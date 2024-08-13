@@ -2,27 +2,27 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
-      "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/figma-min.png",
+      "title": "Figma",
+      "description": "As a skilled Figma user, I design intuitive and visually appealing interfaces. My expertise includes high-fidelity prototypes, wireframes, and user-centered designs. I excel in Figma's collaborative features, enabling seamless teamwork through real-time sharing and feedback"
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/adobe-xd.png",
+      "title": "Adobe Xd",
+      "description": "I am proficient in Adobe XD, utilizing its robust features to design and prototype interactive user interfaces and experiences. My expertise includes creating wireframes, high-fidelity mockups, and fully interactive prototypes that capture the user journey from start to finish"
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/adobe-ai.png",
+      "title": "Adobe Photoshop and Illustrator",
+      "description": " In Photoshop, I excel in photo editing, retouching, and digital arts. My skills in Illustrator include vector graphics, logos, and typography. I give strong attention to detail and high-quality visuals that meet client needs and design standards"
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "src": "./img/adobe-after.png",
+      "title": "Adobe premiere Pro and After Effects",
+      "description": "I have skills in Adobe Premiere Pro and After Effects, where I create and edit video content with basic transitions, effects, and animations. In Premiere Pro, I handle video cuts, color correction, and audio syncing. In After Effects, I work on simple motion graphics and visual effects"
     }
   ],
   "portfolio": [
