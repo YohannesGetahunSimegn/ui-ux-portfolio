@@ -20,15 +20,16 @@ export default function AboutMe() {
             I also bring front-end development skills, bridging design with code
             to create seamless, responsive websites.
           </p>
-
-          <a
-            href="https://docs.google.com/document/d/16vRP2M8BVdwaoYaZdieyG99xjTTY7OIZ10QD8K-c8hI/edit?usp=sharing"
-            className="btn btn-outline-primary"
-            target="_blank"
-            rel="noreferrer"
-          >
-            View resume
-          </a>
+          <p>
+            <a
+              href="https://docs.google.com/document/d/16vRP2M8BVdwaoYaZdieyG99xjTTY7OIZ10QD8K-c8hI/edit?usp=sharing"
+              className="btn btn-outline-primary"
+              target="_blank"
+              rel="noreferrer"
+            >
+              View resume
+            </a>
+          </p>
         </div>
       </div>
     </section>

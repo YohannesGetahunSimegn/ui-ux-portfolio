@@ -551,7 +551,7 @@ input[type="checkbox"] {
 
 @media only screen and (max-width: 1200px) {
   .btn-outline-primary {
-    display: none;
+    display: block;
   }
   .hero--section {
     display: flex;
